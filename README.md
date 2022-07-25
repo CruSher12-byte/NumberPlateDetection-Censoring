@@ -4,10 +4,9 @@ A CNN model trained by transferring learning from YOLOv5 developed by Ultralytic
 
 ## Accuracy
 
-Final Precision = 0.916
-Final Recall = 0.92
-Final MAP = 0.918
-
-Best MAP = 0.936 (Epoch 41)
-Best Precision = 0.931 (Epoch 41)
-Best Recall = 0.909 (Epoch 28)
+* Final Precision = 0.916
+* Final Recall = 0.92
+* Final MAP = 0.918
+* Best MAP = 0.936 (Epoch 41)
+* Best Precision = 0.931 (Epoch 41)
+* Best Recall = 0.909 (Epoch 28)
