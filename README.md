@@ -1,6 +1,6 @@
 # Number Plate Detection and Censoring
 
-A CNN model trained by transferring learning from YOLOv5 developed by Ultralytics on 900 images of cars alongwith annotations of their numberplates over 100 epochs. It recognizes and censors numberplates in images in order to protect the identity of original owner of a car.
+A CNN model trained by transferring learning from YOLOv5 developed by Ultralytics on 440 images of cars alongwith annotations of their numberplates over 100 epochs. It recognizes and censors numberplates in images in order to protect the identity of original owner of a car.
 
 ## Accuracy
 
